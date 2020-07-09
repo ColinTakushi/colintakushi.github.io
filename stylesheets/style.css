@@ -1,0 +1,84 @@
+body
+{
+  font-size: 10px;
+  background: rgba(78, 81, 147, .5);
+}
+
+.nav-class
+{
+  text-align: center;
+  font-size: 25px;
+}
+
+.pic-text
+{
+  padding-top: 15px;
+  text-align: center;
+  font-size: 14px;
+}
+
+.list-text
+{
+  padding-left: 220px;
+  display: block;
+  font-size: 20px;
+  text-align: left;
+}
+
+.title-text
+{
+  padding-top: 30px;
+  padding-left: 200px;
+  text-align: Left;
+  font-size: 25px;
+}
+
+.text-class
+{
+  padding-left: 200px;
+  padding-right: 200px;
+  display: block;
+  paddint-top: 15px;
+  text-align: left;
+  font-size: 20px;
+}
+
+.vert-pic-class
+{
+  display: block;
+  text-align center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  width:480px;
+  height:640px;
+}
+
+.horz-pic-class
+{
+  display: block;
+  text-align center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  height: 480px;
+  width: 640px;
+}
+
+.boys-class
+{
+  display: block;
+  text-align center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  width:500px;
+  height:375px;
+}
+
+.logo-text
+{
+  background: white;
+  text-align: center;
+  font-size: 37px;
+}
