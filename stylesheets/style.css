@@ -76,7 +76,6 @@ body
   padding-left: 200px;
   padding-right: 200px;
   display: block;
-  paddint-top: 15px;
   text-align: left;
   font-size: 20px;
 }
@@ -84,7 +83,6 @@ body
 .me-pic-class
 {
   display: block;
-  text-align center;
   margin-left: auto;
   margin-right: auto;
   padding-top: 20px;
@@ -95,7 +93,6 @@ body
 .vert-pic-class
 {
   display: block;
-  text-align center;
   margin-left: auto;
   margin-right: auto;
   padding-top: 10px;
@@ -106,7 +103,6 @@ body
 .horz-pic-class
 {
   display: block;
-  text-align center;
   margin-left: auto;
   margin-right: auto;
   padding-top: 10px;
@@ -117,7 +113,6 @@ body
 .boys-class
 {
   display: block;
-  text-align center;
   margin-left: auto;
   margin-right: auto;
   padding-top: 10px;
