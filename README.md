@@ -1,2 +1,4 @@
-# Project_1
+# About me website
+
+by Colin Takushi
  
